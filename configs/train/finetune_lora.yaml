@@ -1,6 +1,6 @@
 # model/tokenizer
-model_name: "nomic-ai/gpt4all-lora-multi-turn" # update
-tokenizer_name: "nomic-ai/gpt4all-lora-multi-turn" # update
+model_name: "nomic-ai/gpt4all-lora-epoch-2" # update
+tokenizer_name: "nomic-ai/gpt4all-lora-epoch-2" # update
 gradient_checkpointing: false
 save_name: "nomic-ai/gpt4all-lora-multi-turn"
 
