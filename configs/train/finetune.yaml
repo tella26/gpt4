@@ -1,6 +1,6 @@
 # model/tokenizer
-model_name: "nomic-ai/gpt4all-lora-epoch-2" # add model here
-tokenizer_name: "nomic-ai/gpt4all-lora-epoch-2" # add model here
+model_name: "nomic-ai/gpt4all-lora" # add model here
+tokenizer_name: "nomic-ai/gpt4all-lora" # add model here
 gradient_checkpointing: true
 save_name: "nomic-ai/gpt4all-full-multi-turn"
 
@@ -25,6 +25,6 @@ num_epochs: 2
 # logging
 wandb: true
 wandb_entity: # update
-wandb_project_name: # update
+wandb_project_name: GPT4-tella # update
 seed: 42
 
