@@ -1,6 +1,6 @@
 # model/tokenizer
-model_name: # add model here
-tokenizer_name: # add model here
+model_name: "nomic-ai/gpt4all-full-multi-turn" # add model here
+tokenizer_name: "nomic-ai/gpt4all-full-multi-turn" # add model here
 gradient_checkpointing: true
 save_name: "nomic-ai/gpt4all-full-multi-turn"
 
