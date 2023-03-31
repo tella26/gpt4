@@ -1,8 +1,8 @@
 # model/tokenizer
-model_name: "nomic-ai/gpt4all-lora" # update
-tokenizer_name: "nomic-ai/gpt4all-lora" # update
+model_name: "Tella/gpt4all" # update
+tokenizer_name: "Tella/gpt4all" # update
 gradient_checkpointing: false
-save_name: "nomic-ai/gpt4all-lora-multi-turn"
+save_name: "tella/gpt4all-lora"
 
 # dataset
 streaming: false
