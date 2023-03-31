@@ -1,5 +1,5 @@
 # model/tokenizer
-model_name: "zpn/llama-7b" # add model here
+model_name: "decapoda-research/llama-7b-hf" # add model here
 tokenizer_name: "decapoda-research/llama-7b-hf" # add model here
 gradient_checkpointing: true
 save_name: "tella/gpt4all-full"
