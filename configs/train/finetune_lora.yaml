@@ -1,6 +1,6 @@
 # model/tokenizer
 model_name: "zpn/llama-7b" # update
-tokenizer_name: "LlamaTokenizer" # update
+tokenizer_name: "zpn/llama-7b" # update
 gradient_checkpointing: false
 save_name: "tella/gpt4all-lora"
 
