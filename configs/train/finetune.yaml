@@ -1,6 +1,6 @@
 # model/tokenizer
-model_name: "Tella/gpt4all" # add model here
-tokenizer_name: "Tella/gpt4all" # add model here
+model_name: "zpn/llama-7b" # add model here
+tokenizer_name: "zpn/llama-7b" # add model here
 gradient_checkpointing: true
 save_name: "tella/gpt4all-full"
 

@@ -1,6 +1,6 @@
 # model/tokenizer
-model_name: "Tella/gpt4all" # update
-tokenizer_name: "Tella/gpt4all" # update
+model_name: "zpn/llama-7b" # update
+tokenizer_name: "zpn/llama-7b" # update
 gradient_checkpointing: false
 save_name: "tella/gpt4all-lora"
 
@@ -25,5 +25,5 @@ num_epochs: 2
 # logging
 wandb: true
 wandb_entity: # update
-wandb_project_name: # update
+wandb_project_name: "Tella_GPT4" # update
 seed: 42
